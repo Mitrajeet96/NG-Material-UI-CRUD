@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Petrol 2Ltr",
+      "category": "Consumables",
+      "condition": "Used",
+      "price": 300,
+      "Comment": "Petrol Small Pack",
+      "date": "2023-04-04T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Iphone 12 Mini",
+      "category": "Electronics",
+      "condition": "Brand New",
+      "price": 40000,
+      "Comment": "Iphone 12 Mini(new)",
+      "date": "2023-04-04T18:30:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
